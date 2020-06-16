@@ -12,3 +12,4 @@ C:\repositorio\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo.cs
 C:\repositorio\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
 C:\repositorio\webapi\obj\Debug\netcoreapp2.2\webapi.dll
 C:\repositorio\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
+C:\repositorio\webapi\bin\Debug\netcoreapp2.2\local.db
